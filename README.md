@@ -4,7 +4,7 @@ This repository contains the complete, interactive Streamlit dashboard for CAT 2
 
 ### 🚀 How to Run and Test Instantly
 
-You do not need to configure complex environments. Just copy and paste this single block into your terminal to install the standard dependencies and launch the GUI immediately:
+Just copy and paste this single block into your terminal to install the standard dependencies and launch the GUI immediately:
 
 ```bash
 pip install streamlit numpy pandas matplotlib scipy simpy
